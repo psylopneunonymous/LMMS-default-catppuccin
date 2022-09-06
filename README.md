@@ -1,5 +1,5 @@
 # LMMS-default-catppuccin
-Port of LMMS UI in Catppuccin
+Port of LMMS default UI in Catppuccin
 
 ## Installation 
 
